@@ -41,3 +41,8 @@ body {
 
 
 
+@media (min-width: 400px) {
+    .atron {
+        margin: 200px 20px 10px 90px;
+    }
+}

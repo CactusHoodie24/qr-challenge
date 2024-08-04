@@ -1,0 +1,43 @@
+
+body {
+    background-color: #cee1e4;
+}
+
+.atron {
+    width: 200px;
+    height: 320px;
+    margin: 100px 300px 200px 510px;
+    padding: 10px 10px 50px 10px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+}
+.attribution { font-size: 11px; text-align: center; font-family: outfit; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+
+.atron img {
+    width: 200px;
+    height: 210px;
+    border-radius: 10px;  
+    
+}
+
+.shat {
+    font-size: 15px;
+    font-family: outfit;
+    font-weight: 700;   
+    text-align: center;
+    text-indent: 5px;
+    
+}
+
+.scat {
+    font-size: 12px;
+    text-align: center;
+    font-family: outfit;
+    color: #928d8d;
+    padding-top: px;
+    
+}
+
+
+
